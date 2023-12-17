@@ -1,0 +1,15 @@
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\bin\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.exe
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\bin\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.deps.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\bin\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.runtimeconfig.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\bin\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\bin\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.AssemblyInfoInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.AssemblyInfo.cs
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.csproj.CoreCompileInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.sourcelink.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\refint\Slot02-CRUD-FIND-LOGIN.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\Slot02-CRUD-FIND-LOGIN.genruntimeconfig.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot02-CRUD-FIND-LOGIN\obj\Debug\net8.0\ref\Slot02-CRUD-FIND-LOGIN.dll

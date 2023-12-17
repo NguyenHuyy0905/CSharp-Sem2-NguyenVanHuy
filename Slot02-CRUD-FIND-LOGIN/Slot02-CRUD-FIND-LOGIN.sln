@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Slot02-CRUD-FIND-LOGIN", "Slot02-CRUD-FIND-LOGIN.csproj", "{65EC5573-B441-49DD-93AF-571B9DC04B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EC5573-B441-49DD-93AF-571B9DC04B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EC5573-B441-49DD-93AF-571B9DC04B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EC5573-B441-49DD-93AF-571B9DC04B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EC5573-B441-49DD-93AF-571B9DC04B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {527DD765-FEF6-4C99-AFE5-AD6638791EEF}
+	EndGlobalSection
+EndGlobal

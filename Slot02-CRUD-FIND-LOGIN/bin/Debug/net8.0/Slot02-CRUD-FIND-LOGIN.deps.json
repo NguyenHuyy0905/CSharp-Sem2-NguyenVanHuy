@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Slot02-CRUD-FIND-LOGIN/1.0.0": {
+        "runtime": {
+          "Slot02-CRUD-FIND-LOGIN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slot02-CRUD-FIND-LOGIN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
