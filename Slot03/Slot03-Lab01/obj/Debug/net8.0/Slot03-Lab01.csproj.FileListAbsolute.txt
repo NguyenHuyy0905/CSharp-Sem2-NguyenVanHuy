@@ -1,0 +1,15 @@
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\bin\Debug\net8.0\Slot03-Lab01.exe
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\bin\Debug\net8.0\Slot03-Lab01.deps.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\bin\Debug\net8.0\Slot03-Lab01.runtimeconfig.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\bin\Debug\net8.0\Slot03-Lab01.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\bin\Debug\net8.0\Slot03-Lab01.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\Slot03-Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\Slot03-Lab01.AssemblyInfoInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\Slot03-Lab01.AssemblyInfo.cs
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\Slot03-Lab01.csproj.CoreCompileInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\Slot03-Lab01.sourcelink.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\Slot03-Lab01.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\refint\Slot03-Lab01.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\Slot03-Lab01.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\Slot03-Lab01.genruntimeconfig.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot03\Slot03-Lab01\obj\Debug\net8.0\ref\Slot03-Lab01.dll
