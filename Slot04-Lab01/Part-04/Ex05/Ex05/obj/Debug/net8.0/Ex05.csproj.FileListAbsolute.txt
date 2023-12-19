@@ -1,0 +1,15 @@
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\bin\Debug\net8.0\Ex05.exe
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\bin\Debug\net8.0\Ex05.deps.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\bin\Debug\net8.0\Ex05.runtimeconfig.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\bin\Debug\net8.0\Ex05.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\bin\Debug\net8.0\Ex05.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\Ex05.AssemblyInfoInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\Ex05.AssemblyInfo.cs
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\Ex05.csproj.CoreCompileInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\Ex05.sourcelink.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\Ex05.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\refint\Ex05.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\Ex05.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\Ex05.genruntimeconfig.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Slot04-Lab01\Part-04\Ex05\Ex05\obj\Debug\net8.0\ref\Ex05.dll
