@@ -1,0 +1,15 @@
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\bin\Debug\net8.0\Collection-C-Sharp.exe
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\bin\Debug\net8.0\Collection-C-Sharp.deps.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\bin\Debug\net8.0\Collection-C-Sharp.runtimeconfig.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\bin\Debug\net8.0\Collection-C-Sharp.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\bin\Debug\net8.0\Collection-C-Sharp.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\Collection-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\Collection-C-Sharp.AssemblyInfoInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\Collection-C-Sharp.AssemblyInfo.cs
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\Collection-C-Sharp.csproj.CoreCompileInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\Collection-C-Sharp.sourcelink.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\Collection-C-Sharp.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\refint\Collection-C-Sharp.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\Collection-C-Sharp.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\Collection-C-Sharp.genruntimeconfig.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\Collection\Collection-C-Sharp\obj\Debug\net8.0\ref\Collection-C-Sharp.dll

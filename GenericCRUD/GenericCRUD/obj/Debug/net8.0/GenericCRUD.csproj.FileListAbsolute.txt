@@ -1,0 +1,15 @@
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\bin\Debug\net8.0\GenericCRUD.exe
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\bin\Debug\net8.0\GenericCRUD.deps.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\bin\Debug\net8.0\GenericCRUD.runtimeconfig.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\bin\Debug\net8.0\GenericCRUD.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\bin\Debug\net8.0\GenericCRUD.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\GenericCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\GenericCRUD.AssemblyInfoInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\GenericCRUD.AssemblyInfo.cs
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\GenericCRUD.csproj.CoreCompileInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\GenericCRUD.sourcelink.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\GenericCRUD.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\refint\GenericCRUD.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\GenericCRUD.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\GenericCRUD.genruntimeconfig.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\GenericCRUD\GenericCRUD\obj\Debug\net8.0\ref\GenericCRUD.dll
