@@ -5,40 +5,78 @@ class Program
 {
     static void Main()
     {
-        var repository = new GenericRepository<Person>();
+        var personRepository = new GenericRepository<Person>();
 
         // Thêm mới
         var newPerson = new Person { Id = 1, Name = "John Doe", Age = 30 };
-        repository.Insert(newPerson);
-        repository.Save();
+        personRepository.Insert(newPerson);
+        personRepository.Save();
 
         // Lấy tất cả
         Console.WriteLine("All Persons:");
-        DisplayPersons(repository.GetAll());
+        DisplayPerson(personRepository.GetAll());
 
         // Cập nhật
-        var personToUpdate = repository.GetById(1);
+        var personToUpdate = personRepository.GetById(1);
         if (personToUpdate != null)
         {
             personToUpdate.Age = 31;
-            repository.Update(personToUpdate);
-            repository.Save();
+            personRepository.Update(personToUpdate);
+            personRepository.Save();
         }
         Console.WriteLine("Persons after update:");
-        DisplayPersons(repository.GetAll());
+        DisplayPerson(personRepository.GetAll());
 
         // Xóa
-        repository.Delete(1);
-        repository.Save();
+        personRepository.Delete(1);
+        personRepository.Save();
         Console.WriteLine("Persons after delete:");
-        DisplayPersons(repository.GetAll());
+        DisplayPerson(personRepository.GetAll());
+
+        // --------------------------------
+
+        var productRepository = new GenericRepository<Product>();
+        // Thêm mới
+        var newProduct = new Product { Id = 1, Name = "iphone12", Price = 1000 };
+        productRepository.Insert(newProduct);
+        productRepository.Save();
+
+        // Lấy tất cả
+        Console.WriteLine("All Products:");
+        DisplayProduct(productRepository.GetAll());
+
+        // Cập nhật
+        var newProductUpdate = productRepository.GetById(1);
+        if (newProductUpdate != null)
+        {
+            newProductUpdate.Price = 1200;
+            productRepository.Update(newProductUpdate);
+            productRepository.Save();
+        }
+        Console.WriteLine("Products after update:");
+        DisplayProduct(productRepository.GetAll());
+
+        // Xóa
+        productRepository.Delete(1);
+        productRepository.Save();
+        Console.WriteLine("Products after delete:");
+        DisplayProduct(productRepository.GetAll());
     }
 
-    static void DisplayPersons(List<Person> persons)
+    static void DisplayPerson(List<Person> persons)
     {
         foreach (var person in persons)
         {
             Console.WriteLine($"Id: {person.Id}, Name: {person.Name}, Age: {person.Age}");
+        }
+        Console.WriteLine();
+    }
+
+    static void DisplayProduct(List<Product> products)
+    {
+        foreach (var product in products)
+        {
+            Console.WriteLine($"Id: {product.Id}, Name: {product.Name}, Price: {product.Price}");
         }
         Console.WriteLine();
     }

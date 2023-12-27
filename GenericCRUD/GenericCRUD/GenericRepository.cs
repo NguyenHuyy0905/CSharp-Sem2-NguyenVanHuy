@@ -51,4 +51,5 @@ public class GenericRepository<T> where T : class
         Console.WriteLine("Save operation (simulated) completed.");
         Console.WriteLine();
     }
+    
 }

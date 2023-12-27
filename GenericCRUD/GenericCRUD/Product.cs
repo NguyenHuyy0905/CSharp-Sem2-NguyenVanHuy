@@ -1,11 +1,11 @@
-public class Person
+public class Product
 {
     public int Id { get; set; }
     public string Name { get; set; }
-    public int Age { get; set; }
+    public double Price { get; set; }
 
     public override string ToString()
     {
-            return $"Id: {Id}, Name: {Name}, Age: {Age}";
+            return $"Id: {Id}, Name: {Name}, Age: {Price}";
     }
 }
