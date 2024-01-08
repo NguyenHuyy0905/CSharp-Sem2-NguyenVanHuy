@@ -1,0 +1,14 @@
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\bin\Debug\net7.0\NguyenVanHuyTEST.exe
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\bin\Debug\net7.0\NguyenVanHuyTEST.deps.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\bin\Debug\net7.0\NguyenVanHuyTEST.runtimeconfig.json
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\bin\Debug\net7.0\NguyenVanHuyTEST.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\bin\Debug\net7.0\NguyenVanHuyTEST.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\NguyenVanHuyTEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\NguyenVanHuyTEST.AssemblyInfoInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\NguyenVanHuyTEST.AssemblyInfo.cs
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\NguyenVanHuyTEST.csproj.CoreCompileInputs.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\NguyenVanHuyTEST.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\refint\NguyenVanHuyTEST.dll
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\NguyenVanHuyTEST.pdb
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\NguyenVanHuyTEST.genruntimeconfig.cache
+C:\FPT APTECH\Sem2\CSharp-Sem2-NguyenVanHuy\NguyenVanHuyTEST\NguyenVanHuyTEST\obj\Debug\net7.0\ref\NguyenVanHuyTEST.dll
